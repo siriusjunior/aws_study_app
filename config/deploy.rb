@@ -1,4 +1,4 @@
-lock "~> 3.14.0"
+lock "~> 3.16.0" #3.14.0から変更
 
 set :application, "aws_study_app"
 set :repo_url, "git@github.com:siriusjunior/aws_study_app.git" # 自身のリモートリポジトリSSHURL
